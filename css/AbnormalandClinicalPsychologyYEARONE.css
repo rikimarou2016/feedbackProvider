@@ -1,0 +1,166 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titleAbnormalandClinicalPsychologyYEARONE
+{
+
+    margin-left: 700px;
+    font: bold 11px Arial;
+    font-size: 28px;
+    color: yellow;
+}
+
+.moduleSelection{
+
+    margin-left: 85px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.markerName{
+
+    margin-left: -50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.marking{
+    margin-left: 50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.Datepicker{
+
+    margin-left:70px;
+    font-size: 18px;
+    font-weight: bold;
+
+
+}
+.studentEmail{
+
+  margin-left: 48px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.moduleCode{
+
+    margin-left: 100px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+.sidNumber{
+
+    margin-left: -230px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.typeOfWork{
+    margin-left: -360px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.radio-inline{
+  margin-left: -380px;
+    font-size: 22px;
+
+}
+
+.OverallTableResults{
+
+    margin-left: 840px;
+    font-size: 24px;
+    font-weight: bold;
+    color: yellow;
+}
+
+.btn-logout
+{
+    margin-left: 1700px;
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 3px 2px 3px;
+    font-size: 22px;
+}
+
+.totalScore{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+.markingCriteria{
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.CriteriaTitle{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.typeOfWorkTitle{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.percentageTitle{
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.feedbackDetails{
+
+    margin-left:870px;
+    font-size: 25px;
+    font-weight: bold;
+    color: yellow;
+}
+
+
+
+.dropdownOne{
+
+    margin-left:90px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.dropDownOneFeedback{
+
+    margin-left:90px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.textBox{
+    margin-left:1px;
+    font-size: 22px;
+    font-weight: bold;
+    width:700px;
+    height:200px;
+
+}
+
+.referencingOne{
+    margin-left:95px;
+    font-size: 24px;
+    font-weight: bold;
+
+
+}

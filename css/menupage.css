@@ -1,0 +1,75 @@
+.navbar.main{
+
+    background-color: black;
+
+    padding-top: 0.22rem; padding-bottom: 0.22rem;
+
+}
+
+.navbar.maintwo{
+
+    background-color:lightgray;
+   margin-top: -10px;
+    padding-top: 10rem; padding-bottom: 15rem;
+
+}
+
+
+
+.col-sm-3.nail1{
+
+    margin-left: 210px;
+}
+
+.col-sm-3.nail2{
+
+    margin-left: 30px;
+}
+
+.col-sm-3.nail3{
+
+    margin-left: 30px;
+}
+
+
+.title1menupage{
+
+    font-weight: bold;
+}
+
+.title2menupage{
+
+    font-weight: bold;
+}
+
+.title3menupage{
+
+    font-weight: bold;
+}
+
+
+
+.btn-primary.menupagebuttonone {
+
+    margin-left: 80px;
+    padding: 12px 22px;
+
+    font-size: 15px;
+}
+
+
+.btn-primary.menupagebuttontwo{
+
+     margin-left: 80px;
+     padding: 12px 22px;
+
+     font-size: 15px;
+ }
+
+.btn-primary.menupagebuttonthree{
+
+    margin-left: 80px;
+    padding: 12px 22px;
+
+    font-size: 15px;
+}

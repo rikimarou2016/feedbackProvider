@@ -1,0 +1,19 @@
+
+img{
+    display: block;
+    margin-left: 85px;
+    margin-right: 60px;
+}
+
+.Username,.Password{
+    margin-left: 630px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.btn-success{
+    margin-left:860px;
+    font-size: 18px;
+    width: 97px;
+}

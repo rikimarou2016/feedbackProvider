@@ -1,0 +1,86 @@
+.navbar.maintwo{
+
+    background-color:lightsteelblue;
+    margin-top: -10px;
+    padding-top: 1rem; padding-bottom: 10rem;
+
+}
+
+
+.form-group.fulltemplate{
+
+
+    border: medium solid black;
+    width: 1645px;
+
+}
+.mark {
+
+    width: 40px;
+
+}
+
+.containerFeedbackOne{
+
+
+     border: medium solid black;
+     width: 1645px;
+     background-color:lightgray;
+ }
+
+.markerFeedback{
+
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+
+.moduleCodeFeedback{
+
+    font-weight: bold;
+
+}
+.yearFeedback{
+
+    font-weight: bold;
+}
+
+.sidfeedback{
+
+
+    font-weight: bold;
+}
+.moderatorFeedback{
+
+    font-weight: bold;
+
+
+}
+.moduleNamefeedback{
+
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.textareafeedback{
+
+    margin-left: 40px;
+}
+
+.commentfeedback{
+
+
+    margin-left: 40px;
+}
+
+.markedElementfeedback{
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.btn-primary.action{
+
+    margin-left: 1540px;
+    font-size: 18px;
+    font-weight: bold;
+}
